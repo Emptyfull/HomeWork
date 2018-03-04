@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="strokeColor">#000000</color>
+    <color name="fillColor">#e90b0b</color>
+    <color name="defaultColor">#fcfeff</color>
+    <color name="colorPressed">#9cb1bcff</color>
+
+</resources>

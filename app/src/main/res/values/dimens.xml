@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="titleSize">40dp</dimen>
+    <dimen name="TextSize">12dp</dimen>
+    <dimen name="strokeWidth">1dp</dimen>
+    <dimen name="cubeSize">200dp</dimen>
+    <dimen name="padding">5dp</dimen>
+
+
+</resources>
